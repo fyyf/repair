@@ -1,0 +1,3157 @@
+[ 2014-05-19T17:05:19+08:00 ] 127.0.0.1 /fy/
+NOTIC: [2] mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists D:\wamp\www\fy\ThinkPHP\Library\Think\Build.class.php 第 108 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015816s ]
+ERR: 无法加载控制器:Index
+
+[ 2014-05-19T17:05:19+08:00 ] 127.0.0.1 /fy/
+NOTIC: [2] mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists D:\wamp\www\fy\ThinkPHP\Library\Think\Build.class.php 第 65 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004350s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000562s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004065s ]
+
+[ 2014-05-19T17:13:39+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004502s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002730s ]
+
+[ 2014-05-19T17:36:32+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005796s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006312s ]
+
+[ 2014-05-19T17:36:34+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002691s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001863s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003063s ]
+
+[ 2014-05-19T17:36:37+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002143s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002438s ]
+
+[ 2014-05-19T18:53:42+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004657s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002888s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004014s ]
+
+[ 2014-05-19T18:53:45+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002354s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004749s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005400s ]
+
+[ 2014-05-19T18:59:51+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003219s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003445s ]
+
+[ 2014-05-19T19:00:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Account
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002775s ]
+
+[ 2014-05-19T19:01:16+08:00 ] 127.0.0.1 /fy/index.php/Home/Account
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004611s ]
+
+[ 2014-05-19T19:02:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Account
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002867s ]
+ERR: 非法操作:index
+
+[ 2014-05-19T19:02:43+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/weixin_key/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002506s ]
+ERR: 非法操作:weixin_key
+
+[ 2014-05-19T19:05:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/regiseter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003395s ]
+ERR: 非法操作:regiseter
+
+[ 2014-05-19T19:05:28+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/regiseter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003297s ]
+ERR: 非法操作:regiseter
+
+[ 2014-05-19T19:05:30+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/regiseter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004916s ]
+ERR: 非法操作:regiseter
+
+[ 2014-05-19T19:08:50+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/regiseter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002831s ]
+ERR: 非法操作:regiseter
+
+[ 2014-05-19T19:08:55+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003580s ]
+
+[ 2014-05-19T19:31:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002878s ]
+
+[ 2014-05-19T19:31:16+08:00 ] 127.0.0.1 /fy/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002444s ]
+
+[ 2014-05-19T19:31:27+08:00 ] 127.0.0.1 /fy/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002779s ]
+
+[ 2014-05-19T19:31:56+08:00 ] 127.0.0.1 /fy/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000235s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002065s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 14 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.022313s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.023078s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.012003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000442s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000882s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006894s ]
+
+[ 2014-05-19T19:33:18+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002595s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000567s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002461s ]
+
+[ 2014-05-19T19:33:19+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002050s ]
+
+[ 2014-05-19T19:33:37+08:00 ] 127.0.0.1 /fy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003348s ]
+
+[ 2014-05-19T19:34:32+08:00 ] 127.0.0.1 /fy/index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004748s ]
+
+[ 2014-05-19T19:38:58+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003670s ]
+
+[ 2014-05-19T19:39:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/weixin_key/who
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003276s ]
+
+[ 2014-05-19T19:40:22+08:00 ] 127.0.0.1 /fy/index.php/Home/index/weixin_key/who
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003228s ]
+
+[ 2014-05-19T19:41:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/who
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003239s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.047526s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'who' ) LIMIT 1   [ RunTime:0.001227s ]
+NOTIC: [8] Undefined variable: Weixin_key D:\wamp\www\fy\Application\Home\Controller\BaseController.class.php 第 29 行.
+
+[ 2014-05-19T19:41:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003240s ]
+
+[ 2014-05-19T19:45:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003971s ]
+
+[ 2014-05-19T19:45:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000261s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000711s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Runtime\Cache\Home\9a4e0a34adc161cf80238d9eb52e6953.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005293s ]
+
+[ 2014-05-19T19:47:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002103s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Runtime\Cache\Home\9a4e0a34adc161cf80238d9eb52e6953.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-19T19:47:28+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003812s ]
+
+[ 2014-05-19T19:55:14+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007962s ]
+
+[ 2014-05-19T19:56:56+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003534s ]
+
+[ 2014-05-19T19:56:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002171s ]
+
+[ 2014-05-19T19:57:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002267s ]
+
+[ 2014-05-19T19:57:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002566s ]
+
+[ 2014-05-19T19:57:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002594s ]
+
+[ 2014-05-19T19:57:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002215s ]
+
+[ 2014-05-19T19:57:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002436s ]
+
+[ 2014-05-19T19:57:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003092s ]
+
+[ 2014-05-19T19:57:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003672s ]
+
+[ 2014-05-19T20:09:07+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003415s ]
+
+[ 2014-05-19T20:09:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005295s ]
+
+[ 2014-05-19T20:09:24+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004124s ]
+
+[ 2014-05-19T20:10:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006387s ]
+
+[ 2014-05-19T20:10:12+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004085s ]
+
+[ 2014-05-19T20:10:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003080s ]
+
+[ 2014-05-19T20:12:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002519s ]
+
+[ 2014-05-19T20:12:36+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003166s ]
+
+[ 2014-05-19T20:13:17+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009729s ]
+
+[ 2014-05-19T20:13:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003250s ]
+
+[ 2014-05-19T20:13:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005655s ]
+
+[ 2014-05-19T20:13:36+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003013s ]
+
+[ 2014-05-19T20:13:40+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002655s ]
+ERR: 非法操作:index
+
+[ 2014-05-19T20:13:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003853s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003766s ]
+
+[ 2014-05-19T20:14:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/who.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000973s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008991s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'who' ) LIMIT 1   [ RunTime:0.000812s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000829s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005972s ]
+
+[ 2014-05-19T20:14:07+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003052s ]
+
+[ 2014-05-19T20:14:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/who
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003534s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009590s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'who' ) LIMIT 1   [ RunTime:0.001943s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000560s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003607s ]
+
+[ 2014-05-19T20:18:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/who
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002937s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008294s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'who' ) LIMIT 1   [ RunTime:0.003649s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000275s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000972s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001872s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003988s ]
+
+[ 2014-05-19T20:18:34+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005333s ]
+
+[ 2014-05-19T20:19:11+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/jianghang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002587s ]
+
+[ 2014-05-19T20:19:30+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/Index/index/jianghang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002052s ]
+
+[ 2014-05-19T20:19:42+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jianghang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002242s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008281s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jianghang' ) LIMIT 1   [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008276s ]
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 472 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+SQL: SELECT * FROM `fy_user_extend` WHERE ( (`user_id` = null) AND (`user_id` = null) AND (`user_id` = null) AND (`user_id` = null)  ) LIMIT 1   [ RunTime:0.197510s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.030350s ]
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 472 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 2 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 516 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 517 行.
+NOTIC: [8] Undefined offset: 3 D:\wamp\www\fy\ThinkPHP\Library\Think\Db.class.php 第 520 行.
+SQL: SELECT * FROM `fy_computer` WHERE ( (`user_id` = null) AND (`user_id` = null) AND (`user_id` = null) AND (`user_id` = null)  ) ORDER BY time desc  [ RunTime:0.152169s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000337s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000701s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003777s ]
+
+[ 2014-05-19T20:23:41+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002859s ]
+
+[ 2014-05-19T20:24:03+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jianghang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002891s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 14 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.006561s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.000768s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.007509s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.000920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000377s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000756s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001932s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003087s ]
+
+[ 2014-05-19T20:24:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jianghang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006204s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 14 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007123s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008170s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.001159s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000431s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000823s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001800s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004260s ]
+
+[ 2014-05-19T20:24:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003407s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 14 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.006886s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.007375s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.001138s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001523s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002385s ]
+
+[ 2014-05-19T20:24:17+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002992s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 14 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007653s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.003198s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.006578s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.001444s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000465s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000865s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002829s ]
+
+[ 2014-05-19T20:24:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_keywho
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002070s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 14 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009029s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.000856s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.007906s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.000918s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000367s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000681s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002672s ]
+
+[ 2014-05-19T20:24:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000542s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002269s ]
+
+[ 2014-05-19T20:24:27+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004972s ]
+
+[ 2014-05-19T20:25:53+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005700s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007241s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.001315s ]
+NOTIC: [8] Undefined variable: Weixin_key D:\wamp\www\fy\Application\Home\Controller\BaseController.class.php 第 29 行.
+
+[ 2014-05-19T20:25:53+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002861s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004955s ]
+
+[ 2014-05-19T20:33:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002832s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007750s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.010654s ]
+NOTIC: [8] Undefined variable: Weixin_key D:\wamp\www\fy\Application\Home\Controller\BaseController.class.php 第 29 行.
+
+[ 2014-05-19T20:33:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004450s ]
+
+[ 2014-05-19T20:33:45+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003342s ]
+
+[ 2014-05-19T20:33:53+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003543s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006607s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.001187s ]
+NOTIC: [8] Undefined variable: Weixin_key D:\wamp\www\fy\Application\Home\Controller\BaseController.class.php 第 29 行.
+
+[ 2014-05-19T20:33:53+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002624s ]
+
+[ 2014-05-19T20:34:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004673s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007477s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.001309s ]
+NOTIC: [8] Undefined variable: Weixin_key D:\wamp\www\fy\Application\Home\Controller\BaseController.class.php 第 29 行.
+
+[ 2014-05-19T20:34:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002374s ]
+
+[ 2014-05-19T20:36:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002854s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007975s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.001481s ]
+
+[ 2014-05-19T20:36:24+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/jiang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002173s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011246s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.000953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000286s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000726s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003073s ]
+
+[ 2014-05-19T20:45:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002735s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009999s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiang') [ RunTime:0.211640s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.011035s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (2,'蒋','11111111',1400503502) [ RunTime:0.096164s ]
+
+[ 2014-05-19T20:45:03+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004280s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008032s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiang') [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008271s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (3,'蒋','11111111',1400503503) [ RunTime:0.000769s ]
+
+[ 2014-05-19T20:45:04+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002611s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006494s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiang') [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008865s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (4,'蒋','11111111',1400503504) [ RunTime:0.000896s ]
+
+[ 2014-05-19T20:45:05+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004770s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009829s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiang') [ RunTime:0.001116s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009291s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (5,'蒋','11111111',1400503505) [ RunTime:0.002964s ]
+
+[ 2014-05-19T20:45:12+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004559s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007933s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiang') [ RunTime:0.001045s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009173s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (6,'蒋','11111111',1400503512) [ RunTime:0.001333s ]
+
+[ 2014-05-19T20:54:46+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004242s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009411s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiang') [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008230s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (7,'蒋','11111111',1400504086) [ RunTime:0.000951s ]
+
+[ 2014-05-19T21:12:09+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/jiang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002959s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009734s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.000859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002948s ]
+
+[ 2014-05-19T21:12:14+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/jiang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004018s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009184s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.001083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003731s ]
+
+[ 2014-05-19T21:12:24+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/jiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002151s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009496s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiang' ) LIMIT 1   [ RunTime:0.001035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003973s ]
+
+[ 2014-05-19T21:12:29+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003111s ]
+
+[ 2014-05-19T21:12:34+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000473s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003168s ]
+
+[ 2014-05-19T21:14:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/he.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003317s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009321s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'he' ) LIMIT 1   [ RunTime:0.000920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000273s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000594s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001927s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003986s ]
+
+[ 2014-05-19T21:14:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002617s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003647s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010692s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('he') [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.010510s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (9,'你好啊','3252i493u62o1u4',1400505265) [ RunTime:0.000959s ]
+
+[ 2014-05-19T21:24:19+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008724s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.018136s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000959s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:24:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007408s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.012412s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('he') [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009819s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (10,'你好啊','3252i493u62o1u4',1400505861) [ RunTime:0.001372s ]
+
+[ 2014-05-19T21:24:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004385s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008366s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.001443s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:24:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003538s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.063900s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('he') [ RunTime:0.001187s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009703s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (11,'你好啊','3252i493u62o1u4',1400505863) [ RunTime:0.000830s ]
+
+[ 2014-05-19T21:30:17+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004743s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010825s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('he') [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009337s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (12,'你好啊','3252i493u62o1u4',1400506217) [ RunTime:0.001028s ]
+
+[ 2014-05-19T21:30:18+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003461s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.014023s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000573s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:30:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.042989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002861s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007482s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000791s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:30:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005218s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008383s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('he') [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009649s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (13,'呵呵呵','3252i493u62o1u4',1400506226) [ RunTime:0.000988s ]
+
+[ 2014-05-19T21:31:12+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/he.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006713s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007412s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'he' ) LIMIT 1   [ RunTime:0.002364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002864s ]
+
+[ 2014-05-19T21:31:19+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/hehe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016545s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011406s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'hehe' ) LIMIT 1   [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004014s ]
+
+[ 2014-05-19T21:31:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/heehe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003578s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009437s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'heehe' ) LIMIT 1   [ RunTime:0.000820s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000544s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004391s ]
+
+[ 2014-05-19T21:31:45+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003540s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006875s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('heehe') [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008733s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (14,'werq','35892043509',1400506305) [ RunTime:0.000945s ]
+
+[ 2014-05-19T21:31:57+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/heehe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003531s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006534s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'heehe' ) LIMIT 1   [ RunTime:0.001969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003420s ]
+
+[ 2014-05-19T21:32:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/hee5wehe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004728s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.019019s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'hee5wehe' ) LIMIT 1   [ RunTime:0.001867s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000345s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000753s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002736s ]
+
+[ 2014-05-19T21:32:11+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/hee5wehe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011518s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.015435s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'hee5wehe' ) LIMIT 1   [ RunTime:0.003805s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000703s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003175s ]
+
+[ 2014-05-19T21:32:20+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004700s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008074s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('hee5wehe') [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008856s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (15,'w00','fjew',1400506340) [ RunTime:0.000803s ]
+
+[ 2014-05-19T21:32:33+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werwetrq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005248s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009321s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werwetrq' ) LIMIT 1   [ RunTime:0.000871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000386s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000810s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002371s ]
+
+[ 2014-05-19T21:32:43+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003237s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006684s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwetrq') [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009558s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (16,'jfiANG','EFSD',1400506363) [ RunTime:0.001013s ]
+
+[ 2014-05-19T21:32:52+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004226s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006974s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwetrq') [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007758s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (17,'jfiANG','342352Q93',1400506372) [ RunTime:0.000943s ]
+
+[ 2014-05-19T21:33:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/WRWDG.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002760s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009997s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'WRWDG' ) LIMIT 1   [ RunTime:0.000825s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000567s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003331s ]
+
+[ 2014-05-19T21:33:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012892s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010194s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('WRWDG') [ RunTime:0.001074s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009017s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (18,'WQERSE','EQWRER',1400506390) [ RunTime:0.001121s ]
+
+[ 2014-05-19T21:33:18+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/FHAIWER.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005047s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008828s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'FHAIWER' ) LIMIT 1   [ RunTime:0.001114s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000590s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005395s ]
+
+[ 2014-05-19T21:33:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004459s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011053s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('FHAIWER') [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009933s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (19,'WE','',1400506402) [ RunTime:0.001105s ]
+
+[ 2014-05-19T21:34:06+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003125s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007628s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('FHAIWER') [ RunTime:0.001302s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008444s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (20,'SDAFA','DS',1400506446) [ RunTime:0.001063s ]
+
+[ 2014-05-19T21:34:47+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/jiuhihi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002212s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007740s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'jiuhihi' ) LIMIT 1   [ RunTime:0.000848s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000256s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000586s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003729s ]
+
+[ 2014-05-19T21:35:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003053s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011085s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('jiuhihi') [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.006789s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (21,'werwq','rqwetwe',1400506502) [ RunTime:0.000712s ]
+
+[ 2014-05-19T21:35:35+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/a.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011742s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008732s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'a' ) LIMIT 1   [ RunTime:0.000774s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000312s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000725s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002703s ]
+
+[ 2014-05-19T21:35:46+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007478s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007907s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000882s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:35:47+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002618s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008700s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('a') [ RunTime:0.001272s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009650s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (22,'w','werq',1400506547) [ RunTime:0.000768s ]
+
+[ 2014-05-19T21:36:00+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/ddf.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003205s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008914s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'ddf' ) LIMIT 1   [ RunTime:0.001091s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000319s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001529s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001834s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004749s ]
+
+[ 2014-05-19T21:36:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004913s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007903s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000678s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:36:03+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009550s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009726s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ddf') [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008889s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (23,'','',1400506563) [ RunTime:0.002228s ]
+
+[ 2014-05-19T21:37:30+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/derwq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002884s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.012576s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'derwq' ) LIMIT 1   [ RunTime:0.001437s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000477s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000963s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003612s ]
+
+[ 2014-05-19T21:37:42+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002796s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007564s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('derwq') [ RunTime:0.000739s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007779s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (24,'jig','we',1400506662) [ RunTime:0.000718s ]
+
+[ 2014-05-19T21:40:06+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004380s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008215s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000737s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:40:07+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003125s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007454s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('derwq') [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008814s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (25,'jig','we',1400506807) [ RunTime:0.000695s ]
+
+[ 2014-05-19T21:40:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/derwq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004330s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.015066s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'derwq' ) LIMIT 1   [ RunTime:0.000862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002879s ]
+
+[ 2014-05-19T21:41:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/derwq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004487s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009071s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'derwq' ) LIMIT 1   [ RunTime:0.002059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002836s ]
+
+[ 2014-05-19T21:41:09+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010717s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.001189s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000757s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003827s ]
+
+[ 2014-05-19T21:41:18+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002235s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006772s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.000792s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000249s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000574s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002204s ]
+
+[ 2014-05-19T21:41:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002019s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009051s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werq') [ RunTime:0.001840s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.011879s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (27,'wqer','qwer',1400506885) [ RunTime:0.000948s ]
+
+[ 2014-05-19T21:41:29+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003622s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007230s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.001174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002171s ]
+
+[ 2014-05-19T21:41:33+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003485s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008173s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.000895s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002264s ]
+
+[ 2014-05-19T21:41:36+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002175s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007182s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.001936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002943s ]
+
+[ 2014-05-19T21:41:38+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002339s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007032s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.001182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003569s ]
+
+[ 2014-05-19T21:41:41+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/derwq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003427s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011084s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'derwq' ) LIMIT 1   [ RunTime:0.000999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002617s ]
+
+[ 2014-05-19T21:41:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002090s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010019s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werq' ) LIMIT 1   [ RunTime:0.001095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003275s ]
+
+[ 2014-05-19T21:41:46+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/derwq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001966s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002919s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010707s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'derwq' ) LIMIT 1   [ RunTime:0.000961s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002371s ]
+
+[ 2014-05-19T21:41:55+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002594s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.017224s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ddf') [ RunTime:0.001126s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007675s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (28,'fas','qwefa',1400506915) [ RunTime:0.000877s ]
+
+[ 2014-05-19T21:45:47+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002566s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009134s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ddf') [ RunTime:0.001610s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009860s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (29,'fas','qwefa',1400507146) [ RunTime:0.001244s ]
+
+[ 2014-05-19T21:45:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.041292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002899s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009399s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.001009s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:45:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003216s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006653s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ddf') [ RunTime:0.002237s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008375s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (30,'fas','qwefa',1400507149) [ RunTime:0.000878s ]
+
+[ 2014-05-19T21:46:33+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/ddf.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002572s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008805s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'ddf' ) LIMIT 1   [ RunTime:0.001041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002628s ]
+
+[ 2014-05-19T21:47:37+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/ddf.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002358s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009194s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'ddf' ) LIMIT 1   [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004041s ]
+
+[ 2014-05-19T21:47:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/hhh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002983s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008518s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'hhh' ) LIMIT 1   [ RunTime:0.000821s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000328s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002736s ]
+
+[ 2014-05-19T21:47:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000195s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015833s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010615s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000652s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:47:50+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002621s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008352s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('hhh') [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007339s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (31,'werq','qerqr',1400507270) [ RunTime:0.000823s ]
+
+[ 2014-05-19T21:51:12+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010466s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007757s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000794s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:51:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003550s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009023s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('hhh') [ RunTime:0.002472s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009142s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (32,'werq','qerqr',1400507473) [ RunTime:0.000774s ]
+
+[ 2014-05-19T21:57:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005674s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007055s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000595s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:57:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004378s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008103s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('hhh') [ RunTime:0.002373s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009084s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (33,'werq','qerqr',1400507846) [ RunTime:0.000910s ]
+
+[ 2014-05-19T21:57:33+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/retwr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005949s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006544s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'retwr' ) LIMIT 1   [ RunTime:0.001292s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000317s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000728s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005528s ]
+
+[ 2014-05-19T21:57:42+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004746s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007860s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('retwr') [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007312s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (34,'qe','qwerqr',1400507862) [ RunTime:0.001018s ]
+
+[ 2014-05-19T21:59:16+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/huee.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002675s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010209s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'huee' ) LIMIT 1   [ RunTime:0.001072s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000297s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000859s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003550s ]
+
+[ 2014-05-19T21:59:20+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004585s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008663s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000814s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T21:59:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005780s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007533s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('huee') [ RunTime:0.001078s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.006805s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (35,'ewqr','qwer',1400507961) [ RunTime:0.001148s ]
+
+[ 2014-05-19T21:59:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010171s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008118s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('huee') [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009304s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (36,'ewqr','qwer',1400507962) [ RunTime:0.000712s ]
+
+[ 2014-05-19T22:00:29+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/fdshue.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007448s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008976s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'fdshue' ) LIMIT 1   [ RunTime:0.000980s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000305s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000669s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003112s ]
+
+[ 2014-05-19T22:00:35+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004250s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008804s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('fdshue') [ RunTime:0.001063s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007203s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (37,'wer ','qwere',1400508035) [ RunTime:0.000719s ]
+
+[ 2014-05-19T22:00:40+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/fdshue.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003584s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009371s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'fdshue' ) LIMIT 1   [ RunTime:0.000831s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003760s ]
+
+[ 2014-05-19T22:08:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/uug.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003691s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007489s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'uug' ) LIMIT 1   [ RunTime:0.000806s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000699s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004992s ]
+
+[ 2014-05-19T22:08:52+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006088s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006928s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('uug') [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008458s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (39,'uiguk','jiohlu',1400508532) [ RunTime:0.001114s ]
+
+[ 2014-05-19T22:10:20+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008079s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010592s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('uug') [ RunTime:0.001054s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.010764s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (40,'uiguk','jiohlu',1400508620) [ RunTime:0.000847s ]
+
+[ 2014-05-19T22:10:24+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004755s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006400s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('uug') [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008809s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (41,'uiguk','jiohlu',1400508624) [ RunTime:0.000820s ]
+
+[ 2014-05-19T22:11:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/fdt.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004319s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011023s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'fdt' ) LIMIT 1   [ RunTime:0.000953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000273s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000745s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003610s ]
+
+[ 2014-05-19T22:11:17+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002905s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000658s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003377s ]
+
+[ 2014-05-19T22:44:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004706s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008717s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510666) [ RunTime:0.000545s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510666)
+
+[ 2014-05-19T22:44:39+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003243s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.007988s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510679) [ RunTime:0.000907s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510679)
+
+[ 2014-05-19T22:44:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005602s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.011065s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510688) [ RunTime:0.001784s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510688)
+
+[ 2014-05-19T22:45:40+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003661s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.010457s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510740) [ RunTime:0.000567s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510740)
+
+[ 2014-05-19T22:45:43+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004731s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.011776s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510743) [ RunTime:0.000796s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510743)
+
+[ 2014-05-19T22:46:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005244s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.009221s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510804) [ RunTime:0.000895s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510804)
+
+[ 2014-05-19T22:46:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002952s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008027s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510808) [ RunTime:0.000798s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510808)
+
+[ 2014-05-19T22:48:08+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002906s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.010757s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510888) [ RunTime:0.000839s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510888)
+
+[ 2014-05-19T22:48:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003822s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008520s ]
+NOTIC: [8] Undefined index: brand D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 55 行.
+NOTIC: [8] Undefined index: model D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 56 行.
+NOTIC: [8] Undefined index: buy_time D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 57 行.
+SQL: INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510924) [ RunTime:0.000587s ]
+ERR: 1048:Column 'brand' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_computer` (`user_id`,`brand`,`model`,`buy_time`,`time`) VALUES (0,null,null,943891200,1400510924)
+
+[ 2014-05-19T22:48:50+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/dstwe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004483s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010117s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'dstwe' ) LIMIT 1   [ RunTime:0.001046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000907s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004007s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003619s ]
+
+[ 2014-05-19T22:48:54+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007646s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008075s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('dstwe') [ RunTime:0.001336s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.010304s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (42,'weqr','12314',1400510934) [ RunTime:0.001215s ]
+
+[ 2014-05-19T22:48:55+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007378s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007406s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('dstwe') [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007455s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (43,'weqr','12314',1400510935) [ RunTime:0.000725s ]
+
+[ 2014-05-19T22:52:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005929s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008200s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('dstwe') [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008626s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (44,'weqr','12314',1400511171) [ RunTime:0.000902s ]
+
+[ 2014-05-19T22:52:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013335s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008865s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('dstwe') [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.010820s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (45,'weqr','12314',1400511179) [ RunTime:0.001039s ]
+
+[ 2014-05-19T22:53:05+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/ewqrwe.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003608s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009175s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'ewqrwe' ) LIMIT 1   [ RunTime:0.001023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000293s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000881s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003213s ]
+
+[ 2014-05-19T22:53:08+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009819s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007325s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqrwe') [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.006798s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (46,'qwrqwe','rwqer',1400511188) [ RunTime:0.000967s ]
+
+[ 2014-05-19T22:53:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003499s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.012639s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqrwe') [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008920s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (47,'qwrqwe','rwqer',1400511202) [ RunTime:0.000958s ]
+
+[ 2014-05-19T22:53:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002987s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006758s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqrwe') [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007097s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (48,'qwrqwe','rwqer',1400511228) [ RunTime:0.000874s ]
+
+[ 2014-05-19T22:53:52+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003524s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007319s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqrwe') [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.010052s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (49,'qwrqwe','rwqer',1400511232) [ RunTime:0.000817s ]
+
+[ 2014-05-19T22:54:06+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004562s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.012227s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqrwe') [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.012384s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (50,'qwrqwe','rwqer',1400511246) [ RunTime:0.000886s ]
+
+[ 2014-05-19T22:54:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/ewqre.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002886s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010416s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'ewqre' ) LIMIT 1   [ RunTime:0.000957s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000595s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004491s ]
+
+[ 2014-05-19T22:54:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016422s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007735s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000642s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T22:54:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007827s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007360s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007526s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (51,'qwerq','qwerqwe',1400511289) [ RunTime:0.001041s ]
+
+[ 2014-05-19T22:57:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004382s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007885s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.001090s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T22:57:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003140s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.032619s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009705s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (52,'qwerq','qwerqwe',1400511443) [ RunTime:0.000775s ]
+
+[ 2014-05-19T22:57:50+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004374s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008153s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009771s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (53,'qwerq','qwerqwe',1400511470) [ RunTime:0.000944s ]
+
+[ 2014-05-19T22:58:04+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000823s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003603s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007396s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000573s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T22:58:05+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003243s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007337s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008022s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (54,'qwerqqw','qwerqwe',1400511485) [ RunTime:0.000980s ]
+
+[ 2014-05-19T23:00:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005021s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003230s ]
+
+[ 2014-05-19T23:00:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003837s ]
+
+[ 2014-05-19T23:01:07+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004894s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008100s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 17 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000634s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T23:01:08+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002652s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009034s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008397s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (55,'qwerqqw','qwerqwe',1400511668) [ RunTime:0.000858s ]
+
+[ 2014-05-19T23:01:30+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003315s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007014s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.001184s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008937s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (56,'qwerqqw','qwerqwe',1400511690) [ RunTime:0.000949s ]
+
+[ 2014-05-19T23:01:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003602s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009134s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007906s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (57,'qwerqqw','qwerqwe',1400511711) [ RunTime:0.000719s ]
+
+[ 2014-05-19T23:03:17+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003250s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007094s ]
+NOTIC: [8] Undefined index: weixin_key D:\wamp\www\fy\Application\Home\Controller\AccountController.class.php 第 15 行.
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES (null) [ RunTime:0.000865s ]
+ERR: 1048:Column 'weixin_key' cannot be null
+ [ SQL语句 ] : INSERT INTO `fy_user` (`weixin_key`) VALUES (null)
+
+[ 2014-05-19T23:03:18+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003311s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007472s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007875s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (58,'qwerqqw','qwerqwe',1400511798) [ RunTime:0.000723s ]
+
+[ 2014-05-19T23:12:29+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005361s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009343s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('ewqre') [ RunTime:0.002122s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008825s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (62,'qwerqqw','qwerqwe',1400512349) [ RunTime:0.000900s ]
+
+[ 2014-05-19T23:12:42+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/werwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004031s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009588s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'werwe' ) LIMIT 1   [ RunTime:0.001130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000731s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005808s ]
+
+[ 2014-05-19T23:12:50+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006069s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010884s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008163s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (63,'werewq','132rq43',1400512370) [ RunTime:0.000927s ]
+
+[ 2014-05-19T23:12:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029139s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009559s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.010660s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (64,'werewq','132rq43',1400512371) [ RunTime:0.000934s ]
+
+[ 2014-05-19T23:13:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003585s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.021135s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.002009s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007258s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (65,'werewq','132rq43',1400512405) [ RunTime:0.001138s ]
+
+[ 2014-05-19T23:13:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016232s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007210s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.011224s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (66,'werewq','132rq43',1400512406) [ RunTime:0.000931s ]
+
+[ 2014-05-19T23:14:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000326s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000736s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004389s ]
+
+[ 2014-05-19T23:15:07+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004507s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.019206s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.029424s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (67,'werewq','132rq43',1400512507) [ RunTime:0.002584s ]
+
+[ 2014-05-19T23:15:08+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004114s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011020s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.013329s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (68,'werewq','132rq43',1400512508) [ RunTime:0.000823s ]
+
+[ 2014-05-19T23:15:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.036403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037463s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.015249s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.001980s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.015460s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (69,'werewq','132rq43',1400512513) [ RunTime:0.000965s ]
+
+[ 2014-05-19T23:15:14+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014463s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010675s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('werwe') [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.009060s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (70,'werewq','132rq43',1400512514) [ RunTime:0.001061s ]
+
+[ 2014-05-19T23:16:34+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/registerpc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010647s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000486s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000931s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003323s ]
+
+[ 2014-05-19T23:16:38+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004014s ]
+
+[ 2014-05-19T23:16:44+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/ewqre.html/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003737s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007592s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'ewqre' ) LIMIT 1   [ RunTime:0.001398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003564s ]
+
+[ 2014-05-19T23:16:49+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register/weixin_key/wqerw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003441s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009837s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = 'wqerw' ) LIMIT 1   [ RunTime:0.001070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000293s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000988s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003961s ]
+
+[ 2014-05-19T23:17:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004071s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007182s ]
+SQL: INSERT INTO `fy_user` (`weixin_key`) VALUES ('wqerw') [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007214s ]
+SQL: INSERT INTO `fy_user_extend` (`user_id`,`name`,`phone`,`register_time`) VALUES (71,'awerq','123413',1400512633) [ RunTime:0.001166s ]
+

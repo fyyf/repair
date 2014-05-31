@@ -1,0 +1,1100 @@
+[ 2014-05-26T17:50:54+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015044s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.008687s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 3 ) LIMIT 1   [ RunTime:0.001187s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.009162s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 3 ) ORDER BY time desc  [ RunTime:0.001542s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009591s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `user_id` = 3 ) LIMIT 1   [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000525s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003778s ]
+
+[ 2014-05-26T17:51:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006897s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000799s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007239s ]
+
+[ 2014-05-26T17:51:03+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027244s ]
+
+[ 2014-05-26T17:51:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003608s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008619s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.000880s ]
+
+[ 2014-05-26T17:51:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003539s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+ERR: 非法操作:staffnot.html
+
+[ 2014-05-26T17:52:05+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004772s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007520s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 2 ) LIMIT 1   [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.009552s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 2 ) ORDER BY time desc  [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.009215s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `user_id` = 2 ) LIMIT 1   [ RunTime:0.001143s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000442s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000828s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003853s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011625s ]
+
+[ 2014-05-26T17:52:14+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000682s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006100s ]
+
+[ 2014-05-26T17:52:15+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004558s ]
+
+[ 2014-05-26T17:52:19+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008347s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011516s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.001081s ]
+
+[ 2014-05-26T17:53:02+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005673s ]
+
+[ 2014-05-26T17:54:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006025s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007861s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 2 ) LIMIT 1   [ RunTime:0.001887s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008541s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 2 ) ORDER BY time desc  [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008781s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `user_id` = 2 ) LIMIT 1   [ RunTime:0.000882s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001351s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001767s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003825s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004888s ]
+
+[ 2014-05-26T17:54:21+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003877s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000505s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007143s ]
+
+[ 2014-05-26T17:54:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003705s ]
+
+[ 2014-05-26T17:54:27+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003480s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007159s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.001876s ]
+
+[ 2014-05-26T17:54:45+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003746s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 41 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 45 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003564s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003927s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005152s ]
+
+[ 2014-05-26T17:54:53+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007142s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000268s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000734s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004163s ]
+
+[ 2014-05-26T17:54:55+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008111s ]
+
+[ 2014-05-26T17:55:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004382s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.006373s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.001671s ]
+
+[ 2014-05-26T17:56:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003786s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.007460s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 2 ) LIMIT 1   [ RunTime:0.002487s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008405s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 2 ) ORDER BY time desc  [ RunTime:0.001817s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.012445s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `user_id` = 2 ) LIMIT 1   [ RunTime:0.001146s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001944s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008116s ]
+
+[ 2014-05-26T17:56:53+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000516s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015952s ]
+
+[ 2014-05-26T17:56:54+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012025s ]
+
+[ 2014-05-26T17:56:59+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006279s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.007184s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '1' ) LIMIT 1   [ RunTime:0.000827s ]
+
+[ 2014-05-26T18:00:05+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007548s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.011146s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.001369s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.008810s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 1 ) ORDER BY time desc  [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010337s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `user_id` = 1 ) LIMIT 1   [ RunTime:0.001116s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000476s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001732s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.074862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.075610s ]
+
+[ 2014-05-26T18:00:08+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007680s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000735s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006019s ]
+
+[ 2014-05-26T18:00:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008322s ]
+
+[ 2014-05-26T18:00:15+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003896s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010466s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.001133s ]
+
+[ 2014-05-26T18:00:15+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006209s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000680s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 41 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 45 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006989s ]
+
+[ 2014-05-26T18:05:17+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000855s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005714s ]
+
+[ 2014-05-26T18:05:18+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006052s ]
+
+[ 2014-05-26T18:05:27+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004691s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.013419s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.001024s ]
+
+[ 2014-05-26T18:05:27+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004843s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000322s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 41 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 44 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\fy\Application\Runtime\Cache\Home\cd658a148fe216f90a1a1dcb2ed59e02.php 第 45 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004862s ]
+
+[ 2014-05-26T18:17:39+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/order-technician2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003557s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+ERR: 非法操作:order-technician2
+
+[ 2014-05-26T19:26:37+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011838s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001589s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004229s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005836s ]
+
+[ 2014-05-26T19:26:38+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005751s ]
+
+[ 2014-05-26T19:27:14+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005284s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011951s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '3' ) LIMIT 1   [ RunTime:0.001635s ]
+
+[ 2014-05-26T19:27:15+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010295s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.018952s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = 3 ) LIMIT 1   [ RunTime:0.000986s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.009132s ]
+SQL: SELECT * FROM `fy_computer` WHERE ( `user_id` = 3 ) ORDER BY time desc  [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.011764s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `user_id` = 3 ) LIMIT 1   [ RunTime:0.001210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000638s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006374s ]
+
+[ 2014-05-26T19:27:33+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/handle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005330s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_orderextend` [ RunTime:0.019263s ]
+SQL: INSERT INTO `fy_orderextend` (`description`) VALUES ('拆机除尘') [ RunTime:0.002623s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.014529s ]
+SQL: INSERT INTO `fy_order` (`number`,`user_id`,`orderextend_id`,`time`,`computer_id`,`vip`) VALUES ('20140526192726',3,4,1401103653,3,0) [ RunTime:0.011790s ]
+
+[ 2014-05-26T19:27:35+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006791s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.011851s ]
+SQL: SELECT * FROM `fy_order` WHERE ( `user_id` = 3 ) ORDER BY time desc  [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `fy_computer` [ RunTime:0.013730s ]
+SQL: SELECT `brand`,`model`,`buy_time` FROM `fy_computer` WHERE ( 1=1 AND computer_id='3' ) LIMIT 1   [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `fy_orderextend` [ RunTime:0.012129s ]
+SQL: SELECT `description` FROM `fy_orderextend` WHERE ( 1=1 AND order_extend_id='4' ) LIMIT 1   [ RunTime:0.000787s ]
+NOTIC: [8] Use of undefined constant MANY_TO_MANY - assumed 'MANY_TO_MANY' D:\wamp\www\fy\ThinkPHP\Common\functions.php 第 498 行.
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.014677s ]
+SQL: SELECT `email` FROM `fy_order` WHERE ( 1=1 AND order_id='0' ) LIMIT 1   [ RunTime:0.000707s ]
+ERR: 1054:Unknown column 'email' in 'field list'
+ [ SQL语句 ] : SELECT `email` FROM `fy_order` WHERE ( 1=1 AND order_id='0' ) LIMIT 1  
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.015942s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( `staff_id` = 0 ) LIMIT 1   [ RunTime:0.000887s ]
+SQL: SHOW COLUMNS FROM `fy_user_extend` [ RunTime:0.012040s ]
+SQL: SELECT * FROM `fy_user_extend` WHERE ( `user_id` = null ) LIMIT 1   [ RunTime:0.001091s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000356s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.139243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.030471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031331s ]
+
+[ 2014-05-26T19:44:48+08:00 ] 127.0.0.1 /fy/index.php/Home/Account/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002327s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007687s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005693s ]
+
+[ 2014-05-26T19:44:50+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.050974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009599s ]
+
+[ 2014-05-26T19:46:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/index/weixin_key/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000234s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005164s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.014578s ]
+SQL: SELECT * FROM `fy_user` WHERE ( `weixin_key` = '2' ) LIMIT 1   [ RunTime:0.002708s ]
+
+[ 2014-05-26T19:46:24+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007433s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.010367s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 )  [ RunTime:0.001094s ]
+
+[ 2014-05-26T22:32:13+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028243s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012784s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 )  [ RunTime:0.015861s ]
+NOTIC: [8] Undefined index: staff_id D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+
+[ 2014-05-26T22:32:42+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007730s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.011199s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 )  [ RunTime:0.001204s ]
+
+[ 2014-05-26T22:33:03+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005189s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.009151s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 )  [ RunTime:0.001576s ]
+
+[ 2014-05-26T22:33:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005618s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012055s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001178s ]
+
+[ 2014-05-26T23:14:06+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008365s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.009581s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001066s ]
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.032195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.032565s ]
+
+[ 2014-05-26T23:14:09+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003700s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.042521s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.002662s ]
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005118s ]
+
+[ 2014-05-26T23:14:19+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006331s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.013732s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000965s ]
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005004s ]
+
+[ 2014-05-26T23:14:22+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.042197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.042668s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.011810s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.002489s ]
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004388s ]
+
+[ 2014-05-26T23:14:34+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005187s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012292s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001010s ]
+
+[ 2014-05-26T23:14:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008226s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012073s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000927s ]
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004072s ]
+
+[ 2014-05-26T23:15:08+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004174s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.008793s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000776s ]
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004330s ]
+
+[ 2014-05-26T23:15:40+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004188s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.042228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.042695s ]
+
+[ 2014-05-26T23:15:57+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.032723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033172s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007326s ]
+
+[ 2014-05-26T23:41:06+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003121s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+NOTIC: [8] Undefined variable: variable D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 176 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005206s ]
+
+[ 2014-05-26T23:41:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002642s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.013127s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001195s ]
+
+[ 2014-05-26T23:43:26+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003145s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.010866s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001316s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.013250s ]
+
+[ 2014-05-26T23:44:10+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002652s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.021500s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000793s ]
+
+[ 2014-05-26T23:44:51+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000591s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003329s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.008815s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001974s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.010709s ]
+
+[ 2014-05-26T23:45:23+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003412s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012073s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.010679s ]
+
+[ 2014-05-26T23:46:05+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003036s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.007804s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.010539s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.042769s ]
+
+[ 2014-05-26T23:49:40+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002997s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.008602s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001284s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.011312s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001412s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.010899s ]
+NOTIC: [8] Undefined index: staff_id D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 189 行.
+SQL: SELECT * FROM `fy_user`  [ RunTime:0.001143s ]
+
+[ 2014-05-26T23:50:41+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004109s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012808s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.011501s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.002118s ]
+
+[ 2014-05-26T23:51:34+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002403s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.013272s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.009158s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 ) LIMIT 1   [ RunTime:0.001033s ]
+
+[ 2014-05-26T23:52:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006018s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.010217s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.009170s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001366s ]
+
+[ 2014-05-26T23:53:30+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002900s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.009467s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001952s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.014904s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001146s ]
+SQL: SHOW COLUMNS FROM `fy_user` [ RunTime:0.008463s ]
+SQL: SELECT * FROM `fy_user` WHERE ( 1 )  [ RunTime:0.002142s ]
+
+[ 2014-05-26T23:54:01+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002737s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.007982s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.015484s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001255s ]
+
+[ 2014-05-26T23:54:28+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004411s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.013532s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001311s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.010234s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.002546s ]
+NOTIC: [8] Undefined index: staff_id D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 187 行.
+
+[ 2014-05-26T23:54:42+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003757s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.079970s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.009629s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001263s ]
+NOTIC: [8] Undefined index: staff_id D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 187 行.
+
+[ 2014-05-26T23:55:16+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.009969s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.002102s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.011338s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001489s ]
+NOTIC: [8] Undefined index: staff_id D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 187 行.
+
+[ 2014-05-26T23:55:25+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002626s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.009671s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.003637s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.009551s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.002189s ]
+NOTIC: [8] Undefined index: user_id D:\wamp\www\fy\Application\Home\Controller\IndexController.class.php 第 187 行.
+
+[ 2014-05-26T23:58:40+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004993s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.012599s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.001215s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.012401s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 )  [ RunTime:0.001047s ]
+
+[ 2014-05-26T23:59:37+08:00 ] 127.0.0.1 /fy/index.php/Home/Index/staffnot.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002839s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\wamp\www\fy\Application\Common\Common\function.php 第 16 行.
+SQL: SHOW COLUMNS FROM `fy_staff` [ RunTime:0.009438s ]
+SQL: SELECT * FROM `fy_staff` WHERE ( 2 ) LIMIT 1   [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `fy_order` [ RunTime:0.011219s ]
+SQL: SELECT * FROM `fy_order` WHERE ( 1 ) LIMIT 1   [ RunTime:0.001181s ]
+
